@@ -9,5 +9,4 @@ backend/__pycache__
 backend/*.db
 backend/storage/
 *.pyc
-.env
-.env.*
+config.bat
