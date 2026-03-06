@@ -3,3 +3,11 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .next
+
+# Backend
+backend/__pycache__
+backend/*.db
+backend/storage/
+*.pyc
+.env
+.env.*
